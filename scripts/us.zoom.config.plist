@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nogoogle</key>
+	<true/>
+	<key>nofacebook</key>
+	<true/>
+	<key>ZDisableVideo</key>
+	<true/>
+	<key>ZAutoJoinVoip</key>
+	<true/>
+	<key>ZDualMonitorOn</key>
+	<true/>
+	<key>ZAutoSSOLogin</key>
+	<true/>
+	<key>ZSSOHost</key>
+	<string>pcadv.zoom.us</string>
+	<key>ZAutoFullScreenWhenViewShare</key>
+	<true/>
+	<key>ZAutoFitWhenViewShare</key>
+	<true/>
+	<key>ZUse720PByDefault</key>
+	<false/>
+	<key>ZRemoteControlAllApp</key>
+	<true/>
+	<key>audioautoadjust</key>
+	<true/>
+	<key>EnableEchoCancellation</key>
+	<false/>
+</dict>
+</plist>
