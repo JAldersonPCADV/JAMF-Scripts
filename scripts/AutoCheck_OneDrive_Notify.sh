@@ -42,7 +42,7 @@ sleep 3
 icon="/private/var/tmp/Notifications.icns"        
 title="IT Notification - Update" 
 jamfHelper="/Library/Application Support/JAMF/bin/jamfHelper.app/Contents/MacOS/jamfHelper"
-description="$4 is not running currently and should be to be able to sync your $4 content and back up. "
+description="$4 is not currently running and needs to be for you data to sync and be backed up in $4 & SharePoint. Click OPEN to launch $4."
 
 button1="Not Now"
 button2="OPEN"
